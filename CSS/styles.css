@@ -1,0 +1,23 @@
+body {
+    font-family: "Lato", sans-serif;
+    position: absolute;
+
+    
+}
+section {
+        
+        float: left;
+        left: 400px;
+
+}
+
+aside {
+     position: absolute;
+     float: right;
+
+     top: 25px;
+     right: 150px;
+     font-size: 18px;
+
+}
+
