@@ -1,0 +1,67 @@
+body {
+  background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+  border-radius: 6px;
+  color: #fff;
+  display: block;
+  font: 14px/24px "Source Code Pro", Inconsolata, "Lucida Console", Terminal, "Courier New", Courier;
+  padding: 24px 15px;
+  text-align: center;
+  height: 400px;
+
+
+}
+header,
+
+.bg {
+  
+  background-image: url("BannerPhoto.png");
+  
+
+
+  height: 100%; 
+
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+ul.nav {
+  padding-left: 0px;
+  background-color: #4b6cb7;
+  text-align: center;
+}
+ul.nav > li {
+  display: inline-block;
+  padding: 10px 20px;
+}
+ul.nav > li:hover {
+  background-color: #92aae1;
+}
+ul.nav > li > a {
+  color: white;
+  text-decoration: none;
+  opacity:0.5
+   ;
+}
+section,
+aside,
+
+footer {
+  margin: 0 1.5% 24px 1.5%;
+    float: left;
+}
+section {
+  float: left;
+  width: 63%;
+  
+}
+aside {
+  float: right;
+  width: 30%;
+}
+footer {
+  clear: both;
+  margin-bottom: 0;
+  
+  
+}
