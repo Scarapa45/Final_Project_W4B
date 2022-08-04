@@ -32,7 +32,7 @@ ul.nav {
 }
 ul.nav > li {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 24px 15px;
 }
 ul.nav > li:hover {
   background-color: #92aae1;
@@ -52,8 +52,9 @@ footer {
 }
 section {
   float: left;
-  width: 63%;
+  width: 50%;
   color: aliceblue;
+  padding: 24px 15px;
   
 }
 aside {
@@ -64,6 +65,7 @@ aside {
 footer {
   clear: both;
   margin-bottom: 0;
+  padding: 24px 15px;
   
   
 }
@@ -76,12 +78,13 @@ footer {
 footer {
   width: 100%;
   display: inline-block;
-  background: #333;
+  background: rgb(51, 51, 51);
   height: 50vh;
   text-align: center;
   font-size: 22px;
   font-weight: 700;
   text-decoration: underline;
+  
 }
 
 .footer-distributed{
@@ -149,7 +152,7 @@ footer {
 }
 
 .footer-distributed .footer-center i{
-  background-color:  #33383b;
+  background-color:  #4b6cb7;
   color: #ffffff;
   font-size: 25px;
   width: 38px;
@@ -231,7 +234,7 @@ footer {
   width: 35px;
   height: 35px;
   cursor: pointer;
-  background-color:  #33383b;
+  background-color:  #4b6cb7;
   border-radius: 2px;
 
   font-size: 20px;
