@@ -15,7 +15,7 @@ header,
 .bg {
   
   background-image: url("./Media/BannerPhoto.png");
-  
+ 
 
 
   height: 100%; 
@@ -32,7 +32,7 @@ ul.nav {
 }
 ul.nav > li {
   display: inline-block;
-  padding: 24px 15px;
+  padding: 50px 25px;
 }
 ul.nav > li:hover {
   background-color: #92aae1;
